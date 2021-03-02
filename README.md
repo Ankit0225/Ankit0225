@@ -1,4 +1,6 @@
-### Here is what I'm currently working on 👋
+#    Hi 👋 there
+
+##### Here is what I'm currently working on
 
 
 Here are some ideas to get you started:
@@ -10,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything i.e related to coding
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...He/His/Him
-- ⚡ Fun fact: ...Nothing is free in life
--->
+- ⚡ Fun fact: ...Nothing is free in life-->
+
