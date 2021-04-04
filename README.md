@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Ankit0225 Github Stats](https://github-readme-stats.vercel.app/api?username=Ankit0225&show-icons&hide_border=true)
 <br />
-![visitors](https://visitors-badge.laobi.icu/badge?page_id=Ankit0225.Ankit0225)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ankit0225.Ankit0225)
