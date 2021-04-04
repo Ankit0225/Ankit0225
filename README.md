@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/His/Him
 - ⚡ Fun fact: ...Nothing is free in life-->
 
+![Ankit0225 Github Stats](https://github-readme-stats.vercel.app/api?username=Ankit0225&show-icons&hide_border=true)
+<br />
+![visitors](https://visitors-badge.laobi.icu/badge?page_id=Ankit0225.Ankit0225)
