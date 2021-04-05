@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Nothing is free in life-->
 
 ## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="30px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://icongr.am/devicon/javascript-original.svg" />
-<img align="left" alt="Git" width="30px" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
-<img align="left" alt="GitHub" width="30px" src="https://icongr.am/devicon/github-original-wordmark.svg" />
-<img align="left" alt="Linux" width="30px" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
-<img align="left" alt="Heroku" width="30px" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://icongr.am/devicon/javascript-original.svg" />
+<img align="left" alt="Git" width="40px" src="https://icongr.am/devicon/git-original-wordmark.svg" />
+<img align="left" alt="Linux" width="40px" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
+<img align="left" alt="Heroku" width="40px" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
 <br />
-
 
 ![Ankit0225 Github Stats](https://github-readme-stats.vercel.app/api?username=Ankit0225&show-icons&hide_border=true)
 <br />
