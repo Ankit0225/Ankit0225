@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 
 <br />
-![Ankit0225 Github Skyline](https://skyline.github.com/ankit0225/2021)
-<br />
+
+
 ![Ankit0225 Github Stats](https://github-readme-stats.vercel.app/api?username=Ankit0225&show-icons&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ankit0225.Ankit0225)
