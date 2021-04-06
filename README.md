@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Nothing is free in life-->
 
 ## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="40px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://icongr.am/devicon/javascript-original.svg" />
-<img align="left" alt="Git" width="40px" src="https://icongr.am/devicon/git-original-wordmark.svg" />
-<img align="left" alt="Linux" width="40px" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
-<img align="left" alt="Heroku" width="40px" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  
+
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>   <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
+
 <br />
 
 ![Ankit0225 Github Stats](https://github-readme-stats.vercel.app/api?username=Ankit0225&show-icons&hide_border=true)
