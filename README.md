@@ -1,5 +1,5 @@
 #    Hi 👋 there
-
+ <img align='right' src="https://giphy.com/gifs/illustration-work-freelancer-3owyp2SViuDIGh8YoM" width="250"> 
 ##### Here is what I'm currently working on
 
 
