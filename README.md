@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 ![Github Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ankit0225)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ankit0225.Ankit0225)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit0225&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9"alt="Ankit0225" /></p>
