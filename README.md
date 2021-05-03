@@ -6,11 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Javascript
-- 🌱 I’m currently learning ...Web Development
-- 👯 I’m looking to collaborate on ...Google Cloud
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ...Web Development,Cloud Services,Android Development.
 - 💬 Ask me about ...Anything i.e related to coding
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...He/His/Him
 - ⚡ Fun fact: ...Nothing is free in life-->
 
