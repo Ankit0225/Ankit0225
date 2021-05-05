@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ankit0225&show-icons&hide_border=true" />
-<img width="48%" src= "https://github-readme-streak-stats.herokuapp.com/?user=Ankit0225" />
- </p>
-<br />
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Ankit0225.Ankit0225" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankit0225&show-icons&hide_border=true" />
+<img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=Ankit0225" />
 
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit0225&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9"alt="Ankit0225" />
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Ankit0225.Ankit0225" />
+<p />
+<p align="center" >
+ <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit0225&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9"alt="Ankit0225" />
 </p>
