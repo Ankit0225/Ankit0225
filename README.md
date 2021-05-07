@@ -5,8 +5,6 @@
 #### Here is what I'm currently working on
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Javascript
 - 🌱 I’m currently learning ...Web Development,Cloud Services,Android Development.
 - 💬 Ask me about ...Anything i.e related to coding
