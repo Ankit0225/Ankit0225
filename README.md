@@ -4,8 +4,6 @@
  
 #### Here is what I'm currently working on
 
-
-- 🔭 I’m currently working on ...Javascript
 - 🌱 I’m currently learning ...Web Development,Cloud Services,Android Development.
 - 💬 Ask me about ...Anything i.e related to coding
 - 😄 Pronouns: ...He/His/Him
