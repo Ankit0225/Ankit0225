@@ -27,3 +27,7 @@
 <p align="center" >
  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit0225&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9"alt="Ankit0225" />
 </p>
+
+
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Ankit0225/Ankit0225/blob/main/marquee.svg"/> 
