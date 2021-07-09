@@ -50,7 +50,6 @@
 </code>
 <code><a href="https://t.me/Ankit_0225" target="blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/>
 </code> 
-
 <code><a href="https://discord.com/users/783177262177845299" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </code>
 <code><a href="https://medium.com/@ankitmaurya0225" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
