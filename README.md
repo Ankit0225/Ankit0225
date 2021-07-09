@@ -42,19 +42,19 @@
 
 - Hey Wait, Don't Forget to check out my Social Media Handles. You can also Connect with me
 
-<code><a href="https://www.linkedin.com/in/ankit-maurya-4376481ba/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<code><a href="https://www.linkedin.com/in/ankit-maurya-4376481ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </code>
-<code><a href="https://twitter.com/AnkitMa83309293" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<code><a href="https://twitter.com/AnkitMa83309293" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </code>
-<code><a href="mailto:ankitmaurya0225@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<code><a href="mailto:ankitmaurya0225@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </code>
-<code><a href="https://t.me/Ankit_0225" target="blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/>
+<code><a href="https://t.me/Ankit_0225" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/>
 </code> 
-<code><a href="https://discord.com/users/783177262177845299" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<code><a href="https://discord.com/users/783177262177845299" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </code>
-<code><a href="https://medium.com/@ankitmaurya0225" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<code><a href="https://medium.com/@ankitmaurya0225" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </code>
-<code><a href="https://codepen.io/ankit0225" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+<code><a href="https://codepen.io/ankit0225" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </code>
 
 <br />
