@@ -36,8 +36,8 @@
 <img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=Ankit0225" />
 
 <p />
-<p align="center" >
- <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit0225&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9"alt="Ankit0225" />
+<p align="left" >
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit0225&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9"alt="Ankit0225" />
 </p>
 
 - Hey Wait, Don't Forget to check out my Social Media Handles. You can also Connect with me
