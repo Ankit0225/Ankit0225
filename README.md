@@ -58,4 +58,10 @@
 </code>
 
 <br />
+<p align="center">
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Ankit0225/Ankit0225/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <img align='center'  height="70" alt="thanks" width="100%" src="https://github.com/Ankit0225/Ankit0225/blob/main/marquee.svg"/> 
