@@ -1,5 +1,5 @@
-#    Hi 👋 there
- <img align='right' src="https://media.giphy.com/media/xUPGcl8pUmj1RD8EJG/giphy.gif" width="250"> 
+##    Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> I am Ankit
+  
  <br />
  
 #### Here is what I'm currently working on
