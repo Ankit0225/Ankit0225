@@ -2,10 +2,10 @@
   
  <br />
  
-#### Here is what I'm currently working on
+#### I am a Sophomore at KIIT University
+#### Here is what I am Currently doing
 
-- 🌱 I’m currently learning ...Web Development,Cloud Services,Android Development.
-- 💬 Ask me about ...Anything i.e related to coding
+- 🌱 I’m currently learning ...Web Development,Cloud Services,.
 - 😄 Pronouns: ...He/His/Him
 - ⚡ Fun fact: ...Nothing is free in life
 
