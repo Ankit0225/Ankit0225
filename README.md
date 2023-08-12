@@ -2,10 +2,10 @@
   
  <br />
  
-#### I am a Sophomore at KIIT University
-#### Here is what I am Currently doing
+#### Final Year Grad at KIIT University
+#### Here is what I am currently doing
 
-- 🌱 I’m currently learning ...Web Development,Cloud Services,.
+- 🌱 I’m currently learning ...Web Development, Cloud Services.
 - 😄 Pronouns: ...He/His/Him
 - ⚡ Fun fact: ...Nothing is free in life
 
