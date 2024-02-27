@@ -11,7 +11,7 @@
 
 
 
-![](https://activity-graph.herokuapp.com/graph?username=Ankit0225&theme=dracula)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ankit0225&theme=dracula)
 
 
  ###  Languages :
